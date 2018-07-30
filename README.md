@@ -1,4 +1,4 @@
-Unresolved Error: When cloning from Git, go to directory and run npm install to update, then npm start to see project in browser. 
+To use: When cloning from Git, go to directory and run npm install to update, then npm start to see project in browser. 
 
 //////////////
 /////////////
