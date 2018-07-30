@@ -1,3 +1,10 @@
+Unresolved Error: When cloning from Git, go to directory and run npm install to update, then npm start to see project in browser. 
+
+//////////////
+/////////////
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
